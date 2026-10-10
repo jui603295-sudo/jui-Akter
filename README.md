@@ -1,5 +1,5 @@
-# jui-Akter
-muhaimin Dairy Farm 
+
+#Muhaiminmanagementsystem 
 
 from pathlib import Path import zipfile, textwrap, json, os
 base = Path("/mnt/data/muhaimin-dairy-upload") base.mkdir(parents=True, exist_ok=True)
